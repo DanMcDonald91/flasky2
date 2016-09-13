@@ -29,3 +29,4 @@ Flask-SSLify==0.1.5
 Flask-HTTPAuth==2.7.0
 html5lib==1.0b3
 psycopg2==2.5.3
+SQLAlchemy==0.9.9
